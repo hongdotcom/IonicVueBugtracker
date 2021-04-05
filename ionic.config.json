@@ -1,0 +1,7 @@
+{
+  "name": "bugtrackervue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
