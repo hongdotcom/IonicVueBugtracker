@@ -1,0 +1,9 @@
+ion-toolbar {
+  --background: var(--ion-color-primary);
+  --color: var(--ion-color-dark);
+}
+
+.logo {
+  height: 8vh;
+  max-width: 55vw;
+}
